@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manrahul Bajwa</h1>
 <h3 align="center">A Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manrahulbajwa&label=Profile%20views&color=0e75b6&style=flat" alt="manrahulbajwa" /> </p>SSSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manrahulbajwa&label=Profile%20views&color=0e75b6&style=flat" alt="manrahulbajwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manrahulbajwa" target="blank"><img src="https://img.shields.io/twitter/follow/manrahulbajwa?logo=twitter&style=for-the-badge" alt="manrahulbajwa" /></a> </p>
 
