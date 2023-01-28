@@ -1,9 +1,7 @@
-![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/91017111/215263130-7d343fbb-76cf-4e59-b35a-b674f53414a5.gif)
 
 <h1 align="center">Hi 👋, I'm Manrahul Bajwa</h1>
 <h3 align="center">A Web developer</h3>
 
-<img align="rigth" alt="Coding" src="https://user-images.githubusercontent.com/91017111/215262940-780b3efb-381c-4e66-bc6a-7688bf56d32a.gif" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manrahulbajwa&label=Profile%20views&color=0e75b6&style=flat" alt="manrahulbajwa" /> </p>
 
