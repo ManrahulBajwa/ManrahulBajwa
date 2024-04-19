@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/manrahulbajwa" target="blank"><img src="https://img.shields.io/twitter/follow/manrahulbajwa?logo=twitter&style=for-the-badge" alt="manrahulbajwa" /></a> </p>
 
-- 💬 Ask me about **Magento , Laravel , PHP , React , JavaScript , HTML , CSS , jQuery , Chrome Extensions , TypeScript**
+- 💬 Ask me about **Python, TypeScript, JavaScript, PHP, Django, Flask, Automation, Chrome Extensions, Magento, Laravel, React, HTML, CSS , jQuery**
 
 - 📫 How to reach me **manrahulbajwa@gmail.com**
 
